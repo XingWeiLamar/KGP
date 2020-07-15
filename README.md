@@ -2,7 +2,7 @@
 Knowledge Graph Processor (KGP)
 KGP is a simple tool to generate knowledge graph triplets list from the input csv file and replace each entity with a unique index number. 
 
-Run the program by enter “python KGP.py” in the terminal.
+Run the program by enter “python kgp.py” in the terminal.
 Please follow the instruction and enter all the required input information
 1.	Enter the file path of the original csv file e.g. C:\data.csv
 2.	Enter the columns of entities you need in the KG triplets list
